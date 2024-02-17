@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 0x08 - Networking Basics 2
 
 This project is part of the ALX Software Engineering program curriculum, focusing on networking basics. The purpose of this project is to deepen understanding and practical knowledge of networking concepts, particularly in the context of TCP/IP protocols, UDP, and firewall configurations.
@@ -47,3 +48,6 @@ To get started with this project, follow these steps:
 
 This project was authored by Wayne Rumbidzai Masakure. You can find the source code and documentation on [GitHub](https://WayneRu95/0x08-networking_basics_2).
 
+=======
+0x08. Networking basics #1
+>>>>>>> 2c005a0eb02c0889c784f10c98bbea2ded432683
